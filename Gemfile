@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'twitter'
+gem 'Rubocop'
+gem 'Rspec'
+gem 'pry'
